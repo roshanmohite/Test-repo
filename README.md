@@ -1,2 +1,2 @@
 # Test-repo
-For testing
+This is just another repo created for testing purposes. 
